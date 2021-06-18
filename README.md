@@ -33,3 +33,7 @@ Web-services API - Can be used with any programming language that has support fo
 Multiple security layers.
 
 In-built support to query on multiple JPDB databases.
+
+## Release History
+
+17th June 2021
